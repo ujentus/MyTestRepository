@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mangos/!svn/ver/3336/trunk/src/shared/Config/dotconfpp
+END
+dotconfpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mangos/!svn/ver/3336/trunk/src/shared/Config/dotconfpp/dotconfpp.h
+END
+mempool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mangos/!svn/ver/3336/trunk/src/shared/Config/dotconfpp/mempool.cpp
+END
+dotconfpp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mangos/!svn/ver/3336/trunk/src/shared/Config/dotconfpp/dotconfpp.cpp
+END
+mempool.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mangos/!svn/ver/3336/trunk/src/shared/Config/dotconfpp/mempool.h
+END
